@@ -1,5 +1,9 @@
 # react-packages
 
+**These packages are obsolete as of React v16, which natively supports returning an array of elements from `render()`.**
+
+---
+
 These packages are built from [mwiencek/react#frag-component](https://github.com/mwiencek/react/tree/frag-component), which includes a solution for React issue [#2127](https://github.com/facebook/react/issues/2127) (Add fragment API to allow returning multiple components from render). The frag feature can be used like this:
 
 ```JSX
